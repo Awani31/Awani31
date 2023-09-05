@@ -32,11 +32,11 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Science (B.Sc) </b>fro
 ## ⚡ About Me  <img src="https://komarev.com/ghpvc/?username=awani31&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> 
 
 - 🌱 I’m currently learning **Javascript**.
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**.
-- Back-end using **Spring Boot, Maven, Hybernate, SQL**.
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React**.
+- Back-end using **C#, ASP.net, ASP.NET Core, MVC, MVVM, SQL**.
 - Robust full-stack system design implementation.
-- Backend application development using **Java**.
-- Solving Data structure and algorithm questions in **Java and JavaScript**.
+- Backend application development using **ASP.net**.
+- Solving Data structure and algorithm questions in **ASP.net and C#**.
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
@@ -46,7 +46,7 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Science (B.Sc) </b>fro
 
 ## 💻 Tech stack  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,maven,hibernate,spring,aws,mysql,netlify,bash,github,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,py,dotnet,html,css,maven,hibernate,spring,aws,mysql,netlify,bash,github,git,vscode&theme=light)](https://skillicons.dev)
 
 <br>
 
